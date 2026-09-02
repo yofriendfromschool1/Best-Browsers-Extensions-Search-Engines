@@ -46,3 +46,12 @@ Search Engines:
   https://ahmia.fi
 bypass all short links:
 https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks
+https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated
+https://skipped.lol/
+https://raw.githubusercontent.com/bypass-vip/userscript/refs/heads/main/bypass-vip.user.js
+https://trw.lat/install/userscript/u.user.js?v=L
+https://chromewebstore.google.com/detail/bypasskit-link-unlocker/aiddkahemeniiedmpfblodnmcjoelbjl
+https://palerock.cn/node-service/scripts/install/@hook-js_timer/hook.timer.user.js
+https://api2.adbypass.org/userscript/download/bypass.user.js
+https://api.yuumari.com/dl/m-links.user.js
+https://greasyfork.org/en/scripts/522735-bypass-freedlink-countdown
