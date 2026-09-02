@@ -44,3 +44,5 @@ Search Engines:
   Google: https://www.google.com/search?q=%s (NOTE WORST ONE ONLY USE IF U REALLY NEED GOOD SEARCH RESULTS OR REVERSE IMAGE SEARCH)
   NEED TOR FOR BELOW
   https://ahmia.fi
+bypass all short links:
+https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks
