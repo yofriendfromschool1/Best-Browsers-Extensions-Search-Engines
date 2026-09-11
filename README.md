@@ -46,7 +46,7 @@ A curated list of privacy-respecting browsers, must-have extensions, search engi
 | **Mullvad Browser** | https://mullvad.net/en/browser | Hardened by Mullvad + Tor Project |
 | **Tor Browser** | https://www.torproject.org/download/ | For anonymity |
 | **Zen Browser** | https://zen-browser.app/ | Arc-like Firefox fork (https://github.com/JustAdumbPrsn/Zen-Nebula) LOVE THIS MODDED VERRR |
-| **Sine** | https://github.com/CosmoCreeper/Sine | Not a browser — themes |
+| **Sine** | https://github.com/CosmoCreeper/Sine | Not a browser — themes, if you have a flatpak install of a browser: https://github.com/CosmoCreeper/Sine/releases/tag/v2.3 flatpak |
 | **arkenfox user.js** | https://github.com/arkenfox/user.js | Not a browser — config file to harden Firefox yourself |
 
 ### Chromium (Desktop)
