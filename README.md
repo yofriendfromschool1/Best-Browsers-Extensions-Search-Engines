@@ -54,6 +54,7 @@ A curated list of privacy-respecting browsers, must-have extensions, search engi
 |---------|------|-------|
 | **Brave** | https://brave.com/ | ⚠️ Don't use Brave's built-in Tor mode — use the actual Tor Browser |
 | **Brave Origin** | https://brave.com/origin/ | Brave without the AI/crypto/bloat. Free on Linux, paid on other OSes |
+| **Helium** | https://helium.computer | Minimal ui, ships with Ublock Origin, very privacy/security based. |
 
 **Brave Origin unlocker scripts (unofficial):**
 
