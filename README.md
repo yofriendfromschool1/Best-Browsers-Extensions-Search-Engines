@@ -45,7 +45,7 @@ A curated list of privacy-respecting browsers, must-have extensions, search engi
 | **LibreWolf** | https://librewolf.net/ | Firefox with privacy hardening out of the box |
 | **Mullvad Browser** | https://mullvad.net/en/browser | Hardened by Mullvad + Tor Project |
 | **Tor Browser** | https://www.torproject.org/download/ | For anonymity |
-| **Zen Browser** | https://zen-browser.app/ | Arc-like Firefox fork |
+| **Zen Browser** | https://zen-browser.app/ | Arc-like Firefox fork (https://github.com/JustAdumbPrsn/Zen-Nebula) LOVE THIS MODDED VERRR |
 | **Sine** | https://github.com/CosmoCreeper/Sine | Not a browser — themes |
 | **arkenfox user.js** | https://github.com/arkenfox/user.js | Not a browser — config file to harden Firefox yourself |
 
@@ -131,7 +131,8 @@ A curated list of privacy-respecting browsers, must-have extensions, search engi
 | Extension | Firefox | Chromium | Notes |
 |-----------|---------|----------|-------|
 | **Dark Reader** | https://addons.mozilla.org/firefox/addon/darkreader/ | https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh | |
-| **Zen Internet** | https://addons.mozilla.org/en-US/firefox/addon/zen-internet// | firefox only duh zen | |
+| **Zen Internet** | https://addons.mozilla.org/en-US/firefox/addon/zen-internet/ | firefox only duh zen | |
+| **Zen Internet** | https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/ | Firefox only, aesthetic new tab page. | |
 | **Search by Image** | https://addons.mozilla.org/firefox/addon/search_by_image/ | https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci | |
 | **Violentmonkey** | https://addons.mozilla.org/firefox/addon/violentmonkey/ | https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag | Userscript manager |
 | **FastForward** | https://fastforward.team/ | Skips link shortener countdowns |
