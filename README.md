@@ -132,7 +132,7 @@ A curated list of privacy-respecting browsers, must-have extensions, search engi
 |-----------|---------|----------|-------|
 | **Dark Reader** | https://addons.mozilla.org/firefox/addon/darkreader/ | https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh | |
 | **Zen Internet** | https://addons.mozilla.org/en-US/firefox/addon/zen-internet/ | firefox only duh zen | |
-| **Zen Internet** | https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/ | Firefox only, aesthetic new tab page. | |
+| **Bonjourr** | https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/ | Firefox only, aesthetic new tab page. | |
 | **Search by Image** | https://addons.mozilla.org/firefox/addon/search_by_image/ | https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci | |
 | **Violentmonkey** | https://addons.mozilla.org/firefox/addon/violentmonkey/ | https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag | Userscript manager |
 | **FastForward** | https://fastforward.team/ | Skips link shortener countdowns |
