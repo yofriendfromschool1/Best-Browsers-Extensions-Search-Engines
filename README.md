@@ -138,6 +138,7 @@ A curated list of privacy-respecting browsers, must-have extensions, search engi
 | **FastForward** | https://fastforward.team/ | Skips link shortener countdowns |
 | **Chrome Mask** | https://addons.mozilla.org/firefox/addon/chrome-mask/ | Firefox-only — fixes sites that break on non-Chrome browsers |
 | **Chrome2Fox** | https://addons.mozilla.org/en-US/firefox/addon/chrome2fox/ | Firefox-only — Makes google chrome webstore converted to firefox extension. |
+| **Age Verification bypass** | https://github.com/helloyanis/age-verification-bypass | Firefox-only — bypasses some websites age checks. |
 
 ---
 
